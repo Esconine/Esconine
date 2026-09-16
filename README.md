@@ -16,6 +16,7 @@
       </div>
       <div align="center">
         <img alt="Static Badge" src="https://img.shields.io/badge/Arch-white?style=for-the-badge&logo=archlinux&logoColor=D9E0EE&labelColor=1E202B&color=8ad7eb">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Fedora-white?style=for-the-badge&logo=fedora&logoColor=D9E0EE&labelColor=1E202B&color=8ad7eb">
         <img alt="Static Badge" src="https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=D9E0EE&labelColor=1E202B&color=8ad7eb">
         <img alt="Static Badge" src="https://img.shields.io/badge/Flathub-white?style=for-the-badge&logo=flathub&logoColor=D9E0EE&labelColor=1E202B&color=8ad7eb">
       </div>
